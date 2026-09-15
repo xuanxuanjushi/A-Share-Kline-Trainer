@@ -6,6 +6,10 @@ __pycache__/
 # 可重新生成的行情缓存（体积大，无需上传）
 config/adjusted_bars_cache/
 config/sector_cache/
+config/gbbq_events.json
+config/gbbq_events.bin
+config/market_stats_daily.json
+config/shanghai_index_daily.json
 
 # 打包产物与旧代码备份
 build/
