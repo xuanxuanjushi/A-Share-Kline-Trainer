@@ -1,0 +1,231 @@
+{
+  "tdx_root": "D:\\TDX",
+  "initial_cash": 100000.0,
+  "slot_count": 4,
+  "window_width": 2560,
+  "window_height": 1377,
+  "window_maximized": true,
+  "main_splitter_sizes": [
+    2175,
+    360
+  ],
+  "sector_splitter_sizes": [
+    494,
+    2041
+  ],
+  "sector_chart_splitter_sizes": [
+    921,
+    315
+  ],
+  "sector_table_widths": [
+    50,
+    118,
+    64,
+    64,
+    64,
+    64,
+    63
+  ],
+  "stock_table_widths": [
+    93,
+    111,
+    119,
+    103,
+    113,
+    113,
+    113,
+    113,
+    113,
+    117,
+    113,
+    113,
+    113,
+    113,
+    113,
+    125,
+    103,
+    133
+  ],
+  "sector_sub_pane_indicators": [
+    "volume",
+    "macd"
+  ],
+  "sector_pane_height_ratios": [
+    0.637624521072797,
+    0.21685823754789268,
+    0.14551724137931032
+  ],
+  "sector_chart_window_size": 99,
+  "show_stock_identity": true,
+  "hidden_ma_periods": [
+    5,
+    10,
+    20,
+    60,
+    120,
+    250
+  ],
+  "sub_pane_indicators": [
+    "volume",
+    "macd"
+  ],
+  "pane_height_ratios": [
+    0.62,
+    0.2,
+    0.18
+  ],
+  "hidden_volume_ma_periods": [
+    5,
+    10,
+    20,
+    30,
+    60,
+    120
+  ],
+  "macd_fast": 12,
+  "macd_slow": 26,
+  "macd_signal": 9,
+  "kdj_n": 9,
+  "kdj_k": 3,
+  "kdj_d": 3,
+  "pane_macd_params": [
+    [
+      12,
+      26,
+      9
+    ],
+    [
+      12,
+      26,
+      9
+    ],
+    [
+      12,
+      26,
+      9
+    ],
+    [
+      12,
+      26,
+      9
+    ]
+  ],
+  "pane_kdj_params": [
+    [
+      9,
+      3,
+      3
+    ],
+    [
+      9,
+      3,
+      3
+    ],
+    [
+      9,
+      3,
+      3
+    ],
+    [
+      9,
+      3,
+      3
+    ]
+  ],
+  "main_overlay_mode": "none",
+  "boll_n": 20,
+  "boll_k": 2.0,
+  "buy_budget": 25214.0,
+  "sell_budget": 0.0,
+  "selected_buy_ratio": 0.25,
+  "selected_sell_ratio": 1.0,
+  "commission_rate": 0.00025,
+  "stamp_tax_rate": 0.0005,
+  "min_commission": 5.0,
+  "training_mode": "continuous",
+  "continuous_compound_mode": true,
+  "performance_handle_visible": true,
+  "adjust_type": "qfq",
+  "random_training_horizon": "6m",
+  "favorite_sectors": [
+    "sh880301",
+    "sh880305",
+    "sh880306",
+    "sh880307",
+    "sh880310",
+    "sh880312",
+    "sh880324",
+    "sh880325",
+    "sh880328",
+    "sh880329",
+    "sh880335",
+    "sh880400",
+    "sh880401",
+    "sh880402",
+    "sh880410",
+    "sh880426",
+    "sh880471",
+    "sh880490",
+    "sh880491",
+    "sh880493",
+    "sh880507",
+    "sh880526",
+    "sh880534",
+    "sh880535",
+    "sh880547",
+    "sh880548",
+    "sh880550",
+    "sh880576",
+    "sh880588",
+    "sh880619",
+    "sh880635",
+    "sh880640",
+    "sh880641",
+    "sh880646",
+    "sh880652",
+    "sh880653",
+    "sh880661",
+    "sh880670",
+    "sh880679",
+    "sh880681",
+    "sh880685",
+    "sh880730",
+    "sh880753",
+    "sh880754",
+    "sh880756",
+    "sh880763",
+    "sh880779",
+    "sh880780",
+    "sh880785",
+    "sh880801",
+    "sh880806",
+    "sh880807",
+    "sh880813",
+    "sh880826",
+    "sh880835",
+    "sh880845",
+    "sh880847",
+    "sh880863",
+    "sh880865",
+    "sh880866",
+    "sh880874",
+    "sh880879",
+    "sh880880",
+    "sh880895",
+    "sh880897",
+    "sh880898",
+    "sh880952",
+    "sh880966",
+    "sh881901",
+    "sh881902",
+    "sh881904",
+    "sh881905",
+    "sh881906"
+  ],
+  "favorite_stocks": [
+    "sh603567"
+  ],
+  "board_filters": [
+    "main"
+  ]
+}

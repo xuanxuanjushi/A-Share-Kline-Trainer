@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="panelGrad" x1="105" y1="90" x2="920" y2="930" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#17191D"/>
+      <stop offset="0.55" stop-color="#0D0E10"/>
+      <stop offset="1" stop-color="#060607"/>
+    </linearGradient>
+
+    <radialGradient id="panelLight" cx="0.30" cy="0.17" r="0.72">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.045"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- subtle gold gradient -->
+    <linearGradient id="goldGrad" x1="225" y1="215" x2="825" y2="855" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FBE09A"/>
+      <stop offset="0.48" stop-color="#F3C455"/>
+      <stop offset="1" stop-color="#DFA631"/>
+    </linearGradient>
+
+    <linearGradient id="redGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF5053"/>
+      <stop offset="1" stop-color="#CE2C31"/>
+    </linearGradient>
+
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#55D676"/>
+      <stop offset="1" stop-color="#23904A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- icon surface, no outline -->
+  <rect x="78" y="78" width="868" height="868" rx="170" fill="url(#panelGrad)"/>
+  <rect x="78" y="78" width="868" height="868" rx="170" fill="url(#panelLight)"/>
+
+  <!-- custom A monogram -->
+  <g fill="url(#goldGrad)" transform="translate(-45 -35)">
+    <path d="M282 845
+             L424 325
+             L600 325
+             L742 845
+             L620 845
+             L584 725
+             L440 725
+             L404 845 Z
+             M468 615
+             L556 615
+             L512 455 Z"
+          fill-rule="evenodd"/>
+    <path d="M440 725 L584 725" fill="none" stroke="#9E6417" stroke-width="9" opacity="0.34"/>
+  </g>
+
+  <!-- candlesticks -->
+  <g transform="translate(-95 105)">
+    <rect x="768" y="274" width="10" height="280" rx="5" fill="url(#redGrad)"/>
+    <rect x="742" y="332" width="62" height="153" rx="6" fill="url(#redGrad)"/>
+
+    <rect x="861" y="226" width="10" height="298" rx="5" fill="url(#greenGrad)"/>
+    <rect x="835" y="297" width="62" height="160" rx="6" fill="url(#greenGrad)"/>
+  </g>
+</svg>

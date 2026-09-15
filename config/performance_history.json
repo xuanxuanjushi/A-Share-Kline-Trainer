@@ -1,0 +1,520 @@
+{
+  "version": 1,
+  "ordinary_records": [
+    {
+      "index": 1,
+      "code": "sz301379",
+      "name": "天山电子",
+      "profit": -3666.81,
+      "start_date": "2025-05-21",
+      "end_date": "2025-05-29",
+      "source": "tdx",
+      "trades": [
+        {
+          "accepted": true,
+          "message": "买入成功",
+          "side": "buy",
+          "slot_index": 0,
+          "date": "2025-05-21",
+          "node": "open",
+          "price": 14.631,
+          "quantity": 6800,
+          "amount": 99490.8,
+          "fee": 24.87,
+          "tax": 0.0
+        },
+        {
+          "accepted": true,
+          "message": "卖出成功",
+          "side": "sell",
+          "slot_index": 0,
+          "date": "2025-05-29",
+          "node": "close",
+          "price": 14.106,
+          "quantity": 6800,
+          "amount": 95920.8,
+          "fee": 23.98,
+          "tax": 47.96
+        }
+      ],
+      "ranges": [
+        [
+          617,
+          623,
+          -3666.81
+        ]
+      ],
+      "start_cash": 100000.0,
+      "end_asset": 96333.19,
+      "start_node": "open",
+      "end_node": "close",
+      "equity_points": [
+        {
+          "date": "2025-05-21",
+          "node": "open",
+          "total_asset": 99975.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-21",
+          "node": "close",
+          "total_asset": 98343.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-22",
+          "node": "open",
+          "total_asset": 98615.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-22",
+          "node": "close",
+          "total_asset": 97459.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-23",
+          "node": "open",
+          "total_asset": 96983.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-23",
+          "node": "close",
+          "total_asset": 95249.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-26",
+          "node": "open",
+          "total_asset": 95453.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-26",
+          "node": "close",
+          "total_asset": 96643.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-27",
+          "node": "open",
+          "total_asset": 95827.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-27",
+          "node": "close",
+          "total_asset": 95317.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-28",
+          "node": "open",
+          "total_asset": 96099.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-28",
+          "node": "close",
+          "total_asset": 95181.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-29",
+          "node": "open",
+          "total_asset": 94909.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-29",
+          "node": "close",
+          "total_asset": 96405.13,
+          "code": "sz301379"
+        },
+        {
+          "date": "2025-05-29",
+          "node": "close",
+          "total_asset": 96333.19,
+          "code": "sz301379"
+        }
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "start_date": "2025-05-21",
+          "end_date": "2025-05-29",
+          "start_node": "open",
+          "end_node": "close",
+          "start_asset": 100000.0,
+          "end_asset": 96333.19,
+          "profit": -3666.81,
+          "return_rate": -3.66681,
+          "holding_days": 7,
+          "buy_count": 1,
+          "sell_count": 1,
+          "fee": 48.85,
+          "tax": 47.96
+        }
+      ],
+      "mode": "ordinary",
+      "status": "completed"
+    },
+    {
+      "index": 2,
+      "code": "sh605580",
+      "name": "恒盛能源",
+      "profit": -3149.81,
+      "start_date": "2022-12-07",
+      "end_date": "2022-12-20",
+      "source": "tdx",
+      "trades": [
+        {
+          "accepted": true,
+          "message": "买入成功",
+          "side": "buy",
+          "slot_index": 0,
+          "date": "2022-12-07",
+          "node": "open",
+          "price": 7.94,
+          "quantity": 12500,
+          "amount": 99250.0,
+          "fee": 24.81,
+          "tax": 0.0
+        }
+      ],
+      "ranges": [],
+      "start_cash": 100000.0,
+      "end_asset": 96850.19,
+      "start_node": "open",
+      "end_node": "close",
+      "equity_points": [
+        {
+          "date": "2022-12-07",
+          "node": "open",
+          "total_asset": 99975.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-07",
+          "node": "close",
+          "total_asset": 100050.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-08",
+          "node": "open",
+          "total_asset": 99812.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-08",
+          "node": "close",
+          "total_asset": 100050.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-09",
+          "node": "open",
+          "total_asset": 99887.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-09",
+          "node": "close",
+          "total_asset": 100050.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-12",
+          "node": "open",
+          "total_asset": 100050.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-12",
+          "node": "close",
+          "total_asset": 99487.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-13",
+          "node": "open",
+          "total_asset": 99087.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-13",
+          "node": "close",
+          "total_asset": 99250.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-14",
+          "node": "open",
+          "total_asset": 98775.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-14",
+          "node": "close",
+          "total_asset": 98775.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-15",
+          "node": "open",
+          "total_asset": 98687.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-15",
+          "node": "close",
+          "total_asset": 99575.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-16",
+          "node": "open",
+          "total_asset": 99012.69,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-16",
+          "node": "close",
+          "total_asset": 99725.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-19",
+          "node": "open",
+          "total_asset": 100525.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-19",
+          "node": "close",
+          "total_asset": 95900.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-20",
+          "node": "open",
+          "total_asset": 95975.19,
+          "code": "sh605580"
+        },
+        {
+          "date": "2022-12-20",
+          "node": "close",
+          "total_asset": 96850.19,
+          "code": "sh605580"
+        }
+      ],
+      "segments": [],
+      "mode": "ordinary",
+      "status": "active"
+    },
+    {
+      "index": 3,
+      "code": "sh600379",
+      "name": "宝光股份",
+      "profit": -1589.63,
+      "start_date": "2024-12-18",
+      "end_date": "2024-12-25",
+      "source": "tdx",
+      "trades": [
+        {
+          "accepted": true,
+          "message": "买入成功",
+          "side": "buy",
+          "slot_index": 0,
+          "date": "2024-12-18",
+          "node": "open",
+          "price": 9.806,
+          "quantity": 10100,
+          "amount": 99040.6,
+          "fee": 24.76,
+          "tax": 0.0
+        },
+        {
+          "accepted": true,
+          "message": "卖出成功",
+          "side": "sell",
+          "slot_index": 0,
+          "date": "2024-12-24",
+          "node": "close",
+          "price": 9.687,
+          "quantity": 10100,
+          "amount": 97838.7,
+          "fee": 24.46,
+          "tax": 48.92
+        },
+        {
+          "accepted": true,
+          "message": "买入成功",
+          "side": "buy",
+          "slot_index": 0,
+          "date": "2024-12-24",
+          "node": "close",
+          "price": 9.687,
+          "quantity": 10100,
+          "amount": 97838.7,
+          "fee": 24.46,
+          "tax": 0.0
+        },
+        {
+          "accepted": true,
+          "message": "卖出成功",
+          "side": "sell",
+          "slot_index": 0,
+          "date": "2024-12-25",
+          "node": "open",
+          "price": 9.668,
+          "quantity": 10100,
+          "amount": 97646.8,
+          "fee": 24.41,
+          "tax": 48.82
+        }
+      ],
+      "ranges": [
+        [
+          2135,
+          2139,
+          -1300.04
+        ],
+        [
+          2139,
+          2140,
+          -289.59
+        ]
+      ],
+      "start_cash": 100000.0,
+      "end_asset": 98410.37,
+      "start_node": "open",
+      "end_node": "open",
+      "equity_points": [
+        {
+          "date": "2024-12-18",
+          "node": "open",
+          "total_asset": 99975.24,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-18",
+          "node": "close",
+          "total_asset": 100773.14,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-19",
+          "node": "open",
+          "total_asset": 99773.24,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-19",
+          "node": "close",
+          "total_asset": 100571.14,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-20",
+          "node": "open",
+          "total_asset": 100571.14,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-20",
+          "node": "close",
+          "total_asset": 102267.94,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-23",
+          "node": "open",
+          "total_asset": 102368.94,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-23",
+          "node": "close",
+          "total_asset": 97975.44,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-24",
+          "node": "open",
+          "total_asset": 98581.44,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-24",
+          "node": "close",
+          "total_asset": 98773.34,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-24",
+          "node": "close",
+          "total_asset": 98699.96,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-24",
+          "node": "close",
+          "total_asset": 98675.5,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-25",
+          "node": "open",
+          "total_asset": 98483.6,
+          "code": "sh600379"
+        },
+        {
+          "date": "2024-12-25",
+          "node": "open",
+          "total_asset": 98410.37,
+          "code": "sh600379"
+        }
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "start_date": "2024-12-18",
+          "end_date": "2024-12-24",
+          "start_node": "open",
+          "end_node": "close",
+          "start_asset": 100000.0,
+          "end_asset": 98699.96,
+          "profit": -1300.04,
+          "return_rate": -1.30004,
+          "holding_days": 5,
+          "buy_count": 1,
+          "sell_count": 1,
+          "fee": 49.22,
+          "tax": 48.92
+        },
+        {
+          "index": 2,
+          "start_date": "2024-12-24",
+          "end_date": "2024-12-25",
+          "start_node": "close",
+          "end_node": "open",
+          "start_asset": 98699.96,
+          "end_asset": 98410.37,
+          "profit": -289.59,
+          "return_rate": -0.293404,
+          "holding_days": 2,
+          "buy_count": 1,
+          "sell_count": 1,
+          "fee": 48.87,
+          "tax": 48.82
+        }
+      ],
+      "mode": "ordinary",
+      "status": "completed"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "training_mode": "continuous",
+  "continuous_compound_mode": true,
+  "using_sample_kline": false,
+  "account_initial_cash": 100000.0,
+  "cumulative_holding_days_base": 4,
+  "equity_curve": [
+    99994.53,
+    99802.73,
+    99774.73,
+    100326.33,
+    100289.23,
+    100985.73,
+    101186.63,
+    100877.93,
+    100868.05,
+    100856.55,
+    100856.55,
+    100856.55,
+    100856.55,
+    100856.55,
+    100856.55,
+    100856.55
+  ],
+  "equity_points": [
+    {
+      "date": "2017-09-25",
+      "node": "open",
+      "total_asset": 99994.53,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-25",
+      "node": "close",
+      "total_asset": 99802.73,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-26",
+      "node": "open",
+      "total_asset": 99774.73,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-26",
+      "node": "close",
+      "total_asset": 100326.33,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-27",
+      "node": "open",
+      "total_asset": 100289.23,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-27",
+      "node": "close",
+      "total_asset": 100985.73,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-28",
+      "node": "open",
+      "total_asset": 101186.63,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-28",
+      "node": "close",
+      "total_asset": 100877.93,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-28",
+      "node": "close",
+      "total_asset": 100868.05,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-28",
+      "node": "close",
+      "total_asset": 100856.55,
+      "code": "sh600338"
+    },
+    {
+      "date": "2017-09-29",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sz000402"
+    },
+    {
+      "date": "2017-09-29",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sz002662"
+    },
+    {
+      "date": "2017-09-29",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sh603598"
+    },
+    {
+      "date": "2017-10-09",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sh600516"
+    },
+    {
+      "date": "2017-10-10",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sh600540"
+    },
+    {
+      "date": "2017-10-10",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sz002554"
+    }
+  ],
+  "round_equity_points": [
+    {
+      "date": "2017-10-10",
+      "node": "open",
+      "total_asset": 100856.55,
+      "code": "sz002554"
+    }
+  ],
+  "round_records": [
+    {
+      "index": 1,
+      "code": "sh600338",
+      "name": "西藏珠峰",
+      "profit": 856.55,
+      "start_date": "2017-09-25",
+      "end_date": "2017-09-28",
+      "source": "tdx",
+      "trades": [
+        {
+          "accepted": true,
+          "message": "买入成功",
+          "side": "buy",
+          "slot_index": 0,
+          "date": "2017-09-25",
+          "node": "open",
+          "price": 31.253,
+          "quantity": 700,
+          "amount": 21877.1,
+          "fee": 5.47,
+          "tax": 0.0
+        },
+        {
+          "accepted": true,
+          "message": "卖出成功",
+          "side": "sell",
+          "slot_index": 0,
+          "date": "2017-09-28",
+          "node": "close",
+          "price": 32.515,
+          "quantity": 300,
+          "amount": 9754.5,
+          "fee": 5.0,
+          "tax": 4.88
+        },
+        {
+          "accepted": true,
+          "message": "卖出成功",
+          "side": "sell",
+          "slot_index": 0,
+          "date": "2017-09-28",
+          "node": "close",
+          "price": 32.515,
+          "quantity": 400,
+          "amount": 13006.0,
+          "fee": 5.0,
+          "tax": 6.5
+        }
+      ],
+      "ranges": [
+        [
+          434,
+          437,
+          856.55
+        ]
+      ],
+      "start_cash": 100000.0,
+      "end_asset": 100856.55,
+      "start_node": "open",
+      "end_node": "close",
+      "equity_points": [
+        {
+          "date": "2017-09-25",
+          "node": "open",
+          "total_asset": 99994.53,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-25",
+          "node": "close",
+          "total_asset": 99802.73,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-26",
+          "node": "open",
+          "total_asset": 99774.73,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-26",
+          "node": "close",
+          "total_asset": 100326.33,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-27",
+          "node": "open",
+          "total_asset": 100289.23,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-27",
+          "node": "close",
+          "total_asset": 100985.73,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-28",
+          "node": "open",
+          "total_asset": 101186.63,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-28",
+          "node": "close",
+          "total_asset": 100877.93,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-28",
+          "node": "close",
+          "total_asset": 100868.05,
+          "code": "sh600338"
+        },
+        {
+          "date": "2017-09-28",
+          "node": "close",
+          "total_asset": 100856.55,
+          "code": "sh600338"
+        }
+      ],
+      "segments": [
+        {
+          "index": 1,
+          "start_date": "2017-09-25",
+          "end_date": "2017-09-28",
+          "start_node": "open",
+          "end_node": "close",
+          "start_asset": 100000.0,
+          "end_asset": 100856.55,
+          "profit": 856.55,
+          "return_rate": 0.85655,
+          "holding_days": 4,
+          "buy_count": 1,
+          "sell_count": 2,
+          "fee": 15.47,
+          "tax": 11.38
+        }
+      ],
+      "mode": "continuous",
+      "status": "completed"
+    }
+  ],
+  "active": {
+    "code": "sz002554",
+    "name": "惠博普",
+    "current_index": 466,
+    "current_date": "2017-10-10",
+    "cash": 100856.55,
+    "slots": [
+      {
+        "quantity": 0,
+        "cost": 0.0,
+        "buy_date": "",
+        "today_quantity": 0
+      },
+      {
+        "quantity": 0,
+        "cost": 0.0,
+        "buy_date": "",
+        "today_quantity": 0
+      },
+      {
+        "quantity": 0,
+        "cost": 0.0,
+        "buy_date": "",
+        "today_quantity": 0
+      },
+      {
+        "quantity": 0,
+        "cost": 0.0,
+        "buy_date": "",
+        "today_quantity": 0
+      }
+    ],
+    "trades": [],
+    "first_buy_price": null,
+    "first_buy_index": null,
+    "first_buy_node": "open",
+    "active_cycle_start_cash": null,
+    "frozen_position_metrics": null,
+    "completed_trade_ranges": [],
+    "trade_started": true,
+    "current_node": "open",
+    "reveal_current_full": false,
+    "advance_button_show_close": true,
+    "round_start_cash": 100856.55,
+    "round_start_date": "2017-10-10",
+    "round_start_node": "open",
+    "engine_epoch": 16
+  }
+}
