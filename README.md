@@ -1,10 +1,12 @@
 <h1 align="center">大A日K股票模拟训练器 · 板块选股版</h1>
-<p align="center"><b>A-share Daily K-line Trading Simulator · Sector Edition</b></p>
+<p align="center"><b>A-Share Kline Trainer · Sector Edition</b></p>
 <p align="center">V17 · Windows 10/11 · Python + PySide6 · 本地通达信行情</p>
 
 > 用本地行情做「日K盲练」的 Windows 桌面训练软件：随机抽股票、随机抽历史日期，在看不到后续走势的情况下练买卖，练完再看成绩单。
 >
 > A Windows desktop trainer for blind practice on daily K-lines: it picks a random stock and a random historical date, so you make buy/sell decisions without seeing what happens next — and get a score report afterwards.
+
+> 关键词：日K训练、模拟炒股、板块选股、通达信、A股复盘 / Keywords: a-share, kline, candlestick, trading simulator, trading practice, TDX, PySide6, China stock market
 
 [简体中文](#界面预览) | [English](#english)
 
